@@ -6,6 +6,9 @@ Me chamo João Assaoka, morei em Belo Horizonte até o ano de 2021, concluí meu
 
 🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP
 
-👨‍💻 Atualmente estou aprendendo a programar em C
+💻 Atualmente estou aprendendo a programar em C
+
+👨‍💻 Linguagem Favorita: VBA
 
 📫 Contato: joaovictorar11@gmail.com
+
