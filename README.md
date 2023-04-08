@@ -21,3 +21,5 @@ Me chamo João Assaoka, morei em Belo Horizonte até o ano de 2021, concluí meu
   <img height="143em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assaoka&layout=compact&langs_count=7&theme=react" />
   <img align="right" width="180" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
+
+![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
