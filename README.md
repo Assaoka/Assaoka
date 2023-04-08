@@ -1,5 +1,7 @@
 # Olá, Tudo bem?
-Me chamo João Assaoka, morei em Belo Horizonte até o ano de 2021, concluí meu ensino médio em São José dos Campos no ano de 2022, e agora procuro a oportunidade de desenvolver minhas habilidades, ampliar meus conhecimentos.
+Me chamo João Assaoka, morei em Belo Horizonte até o ano de 2021, concluí o ensino médio em São José dos Campos no ano de 2022.
+Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP e procuro oportunidade para desenvolver minhas habilidades e ampliar meus conhecimentos.
+
 ![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
 
 ## Sobre mim:
