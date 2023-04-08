@@ -1,8 +1,8 @@
 # Olá, Tudo bem?
 Me chamo João Assaoka, morei em Belo Horizonte até o ano de 2021, concluí meu ensino médio em São José dos Campos no ano de 2022, e agora procuro a oportunidade de desenvolver minhas habilidades, ampliar meus conhecimentos.
+![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
 
-
-# Sobre mim:
+## Sobre mim:
 
 🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP
 
@@ -12,8 +12,7 @@ Me chamo João Assaoka, morei em Belo Horizonte até o ano de 2021, concluí meu
 
 📫 Contato: joaovictorar11@gmail.com
 
-##
-
+## Estatísticas:
 
 <div>
   <a href="https://github.com/Assaoka">
@@ -22,4 +21,4 @@ Me chamo João Assaoka, morei em Belo Horizonte até o ano de 2021, concluí meu
   <img align="right" width="180" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
-![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
+
