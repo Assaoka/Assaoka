@@ -1,6 +1,10 @@
 # Olá, Tudo bem?
-&nbsp;&nbsp;&nbsp;&nbsp; Me chamo João Victor Assaoka, morei em Belo Horizonte até o ano de 2021, concluí o ensino médio em São José dos Campos no ano de 2022.
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo) e procuro oportunidade para desenvolver minhas habilidades e ampliar meus conhecimentos.
+<div style="text-align: justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Me chamo João Victor Assaoka, morei em Belo Horizonte até o ano de 2021, concluí o ensino médio em São José dos Campos no ano de 2022.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo) e procuro oportunidade para desenvolver minhas habilidades e ampliar meus conhecimentos.
+</div>
 
 ![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
 
