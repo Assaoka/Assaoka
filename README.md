@@ -7,7 +7,6 @@ Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Unive
 </p>
 
 ![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
-
 ## Sobre mim:
 
 🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP
@@ -20,10 +19,13 @@ Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Unive
 
 ## Estatísticas:
 
-<div>
-  <a href="https://github.com/Assaoka">
-  <img height="143em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Assaoka&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="143em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assaoka&layout=compact&langs_count=7&theme=react" />
+<!--Total Contributions--> 
+ <p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=Assaoka&theme=tokyonight_duo&hide_border=true"
+</p>
+
+<p align="center">  
+<br><img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assaoka&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" />
+<img width="28%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assaoka&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
-
-
+</p>
