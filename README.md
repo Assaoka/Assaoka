@@ -8,26 +8,12 @@ Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Unive
 
 ![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
 ## Sobre mim:
-
 🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP
+<br>💻 Atualmente estou aprendendo a programar em C
+<br>👨‍💻 Linguagem Favorita: VBA
+<br>📫 Contato: joaovictorar11@gmail.com
 
-💻 Atualmente estou aprendendo a programar em C
-
-👨‍💻 Linguagem Favorita: VBA
-
-📫 Contato: joaovictorar11@gmail.com
-
-## Estatísticas:
-
-<!--Total Contributions--> 
- <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Assaoka&theme=tokyonight_duo&hide_border=true"
-</p>
-
-<p align="center">  
-<br><img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assaoka&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" />
-</div>
-<br><img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assaoka&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</p>
-
-
+## Estatísticas: 
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com?user=Assaoka&theme=tokyonight_duo&hide_border=true"</p>
+<p align="center"><img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assaoka&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117"/></div></p>
+<p align="center"><img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assaoka&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" /></p>
