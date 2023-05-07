@@ -8,8 +8,8 @@ Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Unive
 
 ![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
 ## Sobre mim:
-🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP
-<br>💻 Atualmente estou aprendendo a programar em C
+🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo)
+<br>💻 Atualmente estou aprendendo a programar em C ([Acompanhe Minha Jornada](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main))
 <br>👨‍💻 Linguagem Favorita: VBA
 <br>📫 Contato: joaovictorar11@gmail.com
 
