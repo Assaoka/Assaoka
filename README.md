@@ -6,7 +6,12 @@ Me chamo João Victor Assaoka, morei em Belo Horizonte até o ano de 2021, concl
 Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo) e procuro oportunidade para desenvolver minhas habilidades e ampliar meus conhecimentos.
 </p>
 
-![Snake animation](https://github.com/Assaoka/Assaoka/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Assaoka/Assaoka/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Assaoka/Assaoka/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Assaoka/Assaoka/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Sobre mim:
 🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo)
 <br>💻 Atualmente estou aprendendo a programar em C ([Acompanhe Minha Jornada](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main))
