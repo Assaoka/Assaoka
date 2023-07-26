@@ -13,9 +13,9 @@ Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Unive
 </picture>
 
 ## Sobre mim:
-🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo)
-<br>💻 Atualmente estou aprendendo a programar em C ([Acompanhe Minha Jornada](https://github.com/Assaoka/Minha-Jornada-de-Aprendizado-em-C/tree/main))
-<br>👨‍💻 Linguagem Favorita: VBA
+🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo), seguindo a trajetória do curso específico Ciência da Computação.
+<br>💻 Atualmente estou aprendendo a programar em C e Python.
+<br>👨‍💻 Linguagens Utilizadas: C, Python e VBA.
 <br>📫 Contato: joaovictorar11@gmail.com
 
 ## Estatísticas: 
