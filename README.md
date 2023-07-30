@@ -1,9 +1,7 @@
 # Olá, Tudo bem?
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Me chamo João Victor Assaoka, morei em Belo Horizonte até o ano de 2021, concluí o ensino médio em São José dos Campos no ano de 2022.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo) e procuro oportunidade para desenvolver minhas habilidades e ampliar meus conhecimentos.
+&emsp;&emsp; Me chamo João Victor Assaoka, morei em Belo Horizonte até o ano de 2021, concluí o ensino médio em São José dos Campos no ano de 2022.
+<br>&emsp;&emsp; Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo) e procuro oportunidade para desenvolver minhas habilidades e ampliar meus conhecimentos.
 </p>
 
 <picture>
@@ -13,10 +11,12 @@ Atualmente estou cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Unive
 </picture>
 
 ## Sobre mim:
+<p align="justify">
 🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo), seguindo a trajetória do curso específico Ciência da Computação.
 <br>💻 Atualmente estou aprendendo a programar em C e Python.
 <br>👨‍💻 Linguagens Utilizadas: C, Python e VBA.
 <br>📫 Contato: joaovictorar11@gmail.com
+</p>
 
 ## Estatísticas: 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com?user=Assaoka&theme=tokyonight_duo&hide_border=true"</p>
