@@ -5,19 +5,17 @@
 <br>&emsp;&emsp; Minha pesquisa se concentra na manutenção preditiva na indústria 4.0, onde utilizo técnicas de aprendizado de máquina para prever falhas em equipamentos industriais. Essa abordagem é essencial em ambientes industriais, onde a manutenção oportuna desempenha um papel crucial na continuidade das operações e na redução de custos.
 </p>
 
-<picture>
+<p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Assaoka/Assaoka/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Assaoka/Assaoka/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Assaoka/Assaoka/output/github-contribution-grid-snake.svg">
-</picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Assaoka/Assaoka/output/github-contribution-grid-snake.svg" width="100%">
+</picture></p>
 
 # Sobre mim:
-<p align="justify">
-🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP (Universidade Federal de São Paulo), seguindo a trajetória do curso específico Ciência da Computação.
-<br>💻 Atualmente estou aprendendo a programar em C e Python.
-<br>👨‍💻 Linguagens Utilizadas: C, Python e VBA.
-<br>📫 Contato: joaovictorar11@gmail.com
-</p>
+🌱 Cursando Bacharelado em Ciência e Tecnologia na UNIFESP, seguindo a trajetória do curso específico Ciência da Computação.
+<br>💻 Linguagens mais Utilizadas: C e Python.
+<br>👨‍💻 Atualmente estou aprendendo a programar em Solidity.
+<br>📫 Contato:  [joaovictorar11@gmail.com](mailto:joaovictorar11@gmail.com)
 
 # Estatísticas: 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com?user=Assaoka&theme=tokyonight_duo&hide_border=true"</p>
